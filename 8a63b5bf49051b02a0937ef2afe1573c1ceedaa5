@@ -1,0 +1,4 @@
+{"id":"01e49b19-1f9c-4942-a0b7-c2c08b7006c2","ts":"2026-03-23T23:22:23.461Z","path":"/Users/jfrey/dev/actions-ibmcloud-cli/src/installer/linux.js","version":"1.0.0","taskID":"210e5050-e57b-4539-af5f-3c770c8ec54c"}
+{"id":"cd0350fd-f13d-41c5-961e-abfa1e0253fb","ts":"2026-03-23T23:22:28.744Z","path":"/Users/jfrey/dev/actions-ibmcloud-cli/src/installer/macos.js","version":"1.0.0","taskID":"210e5050-e57b-4539-af5f-3c770c8ec54c"}
+{"id":"cd226d72-f12d-4f72-a89a-30b4b5205eba","ts":"2026-03-23T23:22:36.175Z","path":"/Users/jfrey/dev/actions-ibmcloud-cli/src/installer/windows.js","version":"1.0.0","taskID":"210e5050-e57b-4539-af5f-3c770c8ec54c"}
+{"id":"d387cff7-383b-4fa7-bd86-b273b272fd0f","ts":"2026-03-23T23:22:44.483Z","path":"/Users/jfrey/dev/actions-ibmcloud-cli/src/install.js","version":"1.0.0","taskID":"210e5050-e57b-4539-af5f-3c770c8ec54c"}
